@@ -1,0 +1,8 @@
+TP BOTASSO
+1. numerar los procesos
+-asegurarse que el dfd tenga sentido
+-tengan salidas y no tengan entradas
+tener cuidado co
+-en el flujo se pone todo lo que lleva
+-hay que hacer un borrador, porque cuando uno lo empieza armar, tenes la oportunidad de cambiar y hacer las cosas mejor
+

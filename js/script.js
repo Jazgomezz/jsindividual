@@ -20,7 +20,10 @@ console.log(nombre3);
  
 
 //operaciones aritmetricas
-let a=5
-let b=6
+let a=5;
+let b=6;
 
-console.log 
+console.log ('suma', a+b);
+console.log ('resta', a-b);
+console.log ('multiplicación', a*b);
+console.log ('división', a/b);
