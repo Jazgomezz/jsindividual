@@ -17,3 +17,10 @@ console.log(nombre2);
 console.log(nombre3);
 }
 //#endregion
+ 
+
+//operaciones aritmetricas
+let a=5
+let b=6
+
+console.log 
