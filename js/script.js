@@ -19,7 +19,7 @@ console.log(nombre3);
 //#endregion
  
 
-//operaciones aritmetricas
+//#region 
 let a=5;
 let b=6;
 
@@ -27,3 +27,12 @@ console.log ('suma', a+b);
 console.log ('resta', a-b);
 console.log ('multiplicación', a*b);
 console.log ('división', a/b);
+//#endregion
+
+
+//#region 
+let array=[10, 30];
+for (array of array){
+    console.log(array);
+}
+//#endregion
